@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on REST APIS<br>🌱 I’m currently learning Kotlin <br>👯 I’m looking to collaborate on android apps<br>💬 Ask me about android development
+🌱 I’m currently learning Kotlin <br>👯 I’m looking to collaborate on android apps<br>💬 Ask me about android development
 
 
 ## 🌐 Socials:
